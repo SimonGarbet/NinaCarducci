@@ -1,6 +1,6 @@
 # P5Garbet : Nina Carducci Photographe
 
-### Réalisé par [Simon Garbet](www.simongarbet.com)
+### Réalisé par [Simon Garbet](https://www.simongarbet.com)
 
 Dans le but d'un projet Openclassrooms
 
